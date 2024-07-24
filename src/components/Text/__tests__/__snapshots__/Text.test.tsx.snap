@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing about <Text/> component  render text without change 1`] = `
+<Text
+  style={
+    [
+      {
+        "textAlign": "left",
+      },
+      {
+        "color": "rgba(28, 27, 31, 1)",
+        "fontFamily": "System",
+        "fontWeight": "400",
+        "letterSpacing": 0,
+      },
+      {
+        "writingDirection": "ltr",
+      },
+      undefined,
+    ]
+  }
+>
+  Testeo
+</Text>
+`;
